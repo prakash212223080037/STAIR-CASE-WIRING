@@ -1,6 +1,8 @@
 # STAIR-CASE-WIRING
+### PRAKASH T
+212223080037
 
-AIM
+AIM:
 To control the status of the given lamp by using two – way switches.
 
 
